@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include order_management *.css
+recursive-include order_management *.csv
+recursive-include order_management *.html
+recursive-include order_management *.ico
+recursive-include order_management *.js
+recursive-include order_management *.json
+recursive-include order_management *.md
+recursive-include order_management *.png
+recursive-include order_management *.py
+recursive-include order_management *.svg
+recursive-include order_management *.txt
+recursive-exclude order_management *.pyc
