@@ -1,0 +1,18 @@
+[
+ {
+  "category": "FP", 
+  "docstatus": 0, 
+  "doctype": "Subcategory", 
+  "modified": "2015-06-09 15:39:15.334631", 
+  "name": "DD1", 
+  "subcategory": "DD1"
+ }, 
+ {
+  "category": "RM", 
+  "docstatus": 0, 
+  "doctype": "Subcategory", 
+  "modified": "2015-06-09 15:39:49.931421", 
+  "name": "Item-RM1", 
+  "subcategory": "Item-RM1"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "category_name": "RM", 
+  "docstatus": 0, 
+  "doctype": "Category", 
+  "modified": "2015-06-09 15:18:48.008228", 
+  "name": "RM"
+ }, 
+ {
+  "category_name": "FP", 
+  "docstatus": 0, 
+  "doctype": "Category", 
+  "modified": "2015-06-09 15:19:25.425029", 
+  "name": "FP"
+ }, 
+ {
+  "category_name": "Test", 
+  "docstatus": 0, 
+  "doctype": "Category", 
+  "modified": "2015-06-09 15:21:46.752766", 
+  "name": "Test"
+ }, 
+ {
+  "category_name": "RM1", 
+  "docstatus": 0, 
+  "doctype": "Category", 
+  "modified": "2015-06-09 15:23:19.101350", 
+  "name": "RM1"
+ }, 
+ {
+  "category_name": "RM23", 
+  "docstatus": 0, 
+  "doctype": "Category", 
+  "modified": "2015-06-09 15:26:56.981776", 
+  "name": "RM23"
+ }, 
+ {
+  "category_name": "testindia", 
+  "docstatus": 0, 
+  "doctype": "Category", 
+  "modified": "2015-06-09 15:27:20.339565", 
+  "name": "testindia"
+ }
+]

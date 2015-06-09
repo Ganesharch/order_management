@@ -107,4 +107,4 @@ app_version = "0.0.1"
 # 	"frappe.desk.doctype.event.event.get_events": "order_management.event.get_events"
 # }
 
-fixtures = ["State", "City"]
+fixtures = ["State", "City","Category","Subcategory","Shape"]
