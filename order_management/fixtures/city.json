@@ -1,0 +1,50 @@
+[
+ {
+  "city": "Coimbatore", 
+  "docstatus": 0, 
+  "doctype": "City", 
+  "modified": "2015-06-09 13:05:54.441345", 
+  "name": "Coimbatore", 
+  "state": "Tamil Nadu"
+ }, 
+ {
+  "city": "Chennai", 
+  "docstatus": 0, 
+  "doctype": "City", 
+  "modified": "2015-06-09 13:06:28.387226", 
+  "name": "Chennai", 
+  "state": "Tamil Nadu"
+ }, 
+ {
+  "city": "Cochin", 
+  "docstatus": 0, 
+  "doctype": "City", 
+  "modified": "2015-06-09 13:06:42.602682", 
+  "name": "Cochin", 
+  "state": "Kerela"
+ }, 
+ {
+  "city": "Thrissur", 
+  "docstatus": 0, 
+  "doctype": "City", 
+  "modified": "2015-06-09 13:07:12.668370", 
+  "name": "Thrissur", 
+  "state": "Kerela"
+ }, 
+ {
+  "city": "Bangalore", 
+  "docstatus": 0, 
+  "doctype": "City", 
+  "modified": "2015-06-09 13:07:33.740159", 
+  "name": "Bangalore", 
+  "state": "Karnataka"
+ }, 
+ {
+  "city": "Mysore", 
+  "docstatus": 0, 
+  "doctype": "City", 
+  "modified": "2015-06-09 13:07:46.390001", 
+  "name": "Mysore", 
+  "state": "Karnataka"
+ }
+]
