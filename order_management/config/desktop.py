@@ -9,5 +9,13 @@ def get_data():
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
 			"label": _("Order Management")
-		}
+		},
+
+                "PMS": {
+                        "color": "grey",
+                        "icon": "octicon octicon-file-directory",
+                        "type": "module",
+                        "label": _("Pms")
+                }
+
 	}
